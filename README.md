@@ -1,5 +1,5 @@
 <div>
-    <img src="jsimg.jpg" alt="Outra imagem" height="42" width="42">
+    <img src="jsimg.jpg" alt="Outra imagem" height="90" width="90">
 </div>
 
 # Javascript
