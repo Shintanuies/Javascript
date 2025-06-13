@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=77080E&text=ようこそ&fontSize=18&fontAlign=83&fontColor=E1FDFE&animation=scaleIn"/>
+
 <div>
     <img src="jsimg.jpg" alt="Outra imagem" height="90" width="90">
 </div>
@@ -21,3 +23,5 @@
 - <span style="color: red; font-size: 22"> pop </span> - removes the last element from the array.
 - <span style="color: red; font-size: 22"> shift </span> - removes the first element from the array.
 - <span style="color: red; font-size: 22"> unshift </span> - adds the first element from the array.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=77080E&fontSize=14&fontAlign=83&fontColor=E1FDFE&animation=scaleIn&section=footer"/>
