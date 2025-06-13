@@ -1,5 +1,6 @@
 <div>
     <img src="jsimg.jpg" alt="Outra imagem" height="90" width="90" style="border: 2px solid red; padding: 5px; box-shadow: 1px 1px 4px grey">
+    <img src="paisagem1_resized.jpg" alt="Outra imagem"  style="border: 2px solid red; padding: 5px; box-shadow: 1px 1px 4px grey">
 </div>
 
 # Javascript
