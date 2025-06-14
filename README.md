@@ -19,10 +19,10 @@
 ## Array Methods:
 
 - <span style="color: red; font-size: 22"> length </span> - returns the size of the array.
-- <span style="color: red; font-size: 22"> push </span> - adds an element to the end of the array.
-- <span style="color: red; font-size: 22"> pop </span> - removes the last element from the array.
-- <span style="color: red; font-size: 22"> shift </span> - removes the first element from the array.
-- <span style="color: red; font-size: 22"> unshift </span> - adds the first element from the array.
+- <span style="color: red; font-size: 22"> push() </span> - adds an element to the end of the array.
+- <span style="color: red; font-size: 22"> pop() </span> - removes the last element from the array.
+- <span style="color: red; font-size: 22"> shift() </span> - removes the first element from the array.
+- <span style="color: red; font-size: 22"> unshift() </span> - adds the first element from the array.
 
 <div align="center">
     <img width="200" src="a-logo-design-in-an-oriental-style-featu_i-4pO2wTT92w3TENQ8Gg6A_naugfvo1SRq3Q7v-Y8cNlA.png"/>
