@@ -24,4 +24,8 @@
 - <span style="color: red; font-size: 22"> shift </span> - removes the first element from the array.
 - <span style="color: red; font-size: 22"> unshift </span> - adds the first element from the array.
 
+<div align="center">
+    <img width="200" src="a-logo-design-in-an-oriental-style-featu_i-4pO2wTT92w3TENQ8Gg6A_naugfvo1SRq3Q7v-Y8cNlA.png"/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=77080E&fontSize=14&fontAlign=83&fontColor=E1FDFE&animation=scaleIn&section=footer"/>
